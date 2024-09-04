@@ -1,5 +1,14 @@
 body{
     background-color: crimson(218, 218, 157);
     font-family: "Baskervville SC", system-ui;
-      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;     
+}
+
+button{
+    background-color: hotpink;
+    font-family: "Baskervville SC", system-ui;
 }
