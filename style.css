@@ -12,3 +12,19 @@ button{
     background-color: hotpink;
     font-family: "Baskervville SC", system-ui;
 }
+
+.passo{
+    display: none;
+}
+
+.paaso.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 80%;
+}
